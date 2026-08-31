@@ -11,6 +11,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/legrado/threat-hunting-scenario-tor)**
+- **[Microsoft Defender Endpoint Compromise Investigation](https://github.com/AidenNguyenCyber/microsoft-defender-incident-investigation)**
+- **[Azure MySQL Honeypot: Compromise Detection & Incident Response](https://github.com/AidenNguyenCyber/azure-mysql-honeypot-incident-response)**
 
 <hr/>
 
